@@ -1,6 +1,6 @@
 # Voice-to-Document AI Assistant
 
-This Python script is a simple yet powerful tool that captures your spoken ideas, transcribes them into text, and then uses AI to format the text into a blog post, a professional email, or a concise summary. The final output is automatically saved as a Microsoft Word document (`.docx`).
+This powerful tool that captures your spoken ideas, transcribes them into text, and then uses AI to format the text into a blog post, a professional email, or a concise summary. The final output is automatically saved as a Microsoft Word document (`.docx`).
 ## 🚀 Features
 * **Voice Recording**: Captures up to 10 seconds of audio from your microphone.
 * **Speech-to-Text**: Uses Google's Speech Recognition API to accurately transcribe your voice.
